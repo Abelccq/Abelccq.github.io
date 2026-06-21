@@ -23,10 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pp.jpg"
+  avatar           : "pp.png"
   name             : ""
   pronouns         : "he/him" 
-  bio              : "Biomedical engineering student. Focused on signal processing for EEG signal analysis. Interested in network neuroscience and now exploring how spectral graph theory reveals brain connectivity."
+  bio              : "20 y/o biomedical engineering student. Focused on signal processing for EEG signal analysis. Interested in network neuroscience and now exploring spectral graph theory for brain connectivity."
   location         : "Rennes, France"
   employer         : "ESIR, Rennes 1 University"
   uri              : # URL
