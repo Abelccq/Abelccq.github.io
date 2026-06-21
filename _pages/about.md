@@ -7,6 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-# À venir
-------
+## À venir
 Cette page sera prochainement complétée.
