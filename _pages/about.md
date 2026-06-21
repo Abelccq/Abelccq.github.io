@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-## À venir
-Cette page sera prochainement complétée.
+## Will be available soon...
+This page will be completed soon.
