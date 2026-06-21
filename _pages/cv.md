@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-## À venir
-Cette page sera prochainement complétée.
+## Will be available soon...
+This page will be completed soon.
 
