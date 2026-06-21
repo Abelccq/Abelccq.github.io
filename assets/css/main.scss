@@ -44,4 +44,6 @@
 
 .author__avatar img {
   border-radius: 0;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
 }
