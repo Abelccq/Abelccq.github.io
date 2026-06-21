@@ -9,7 +9,7 @@ redirect_from:
 
 Hi everyone! I'm Abel Lecocq, an engineering student at ESIR (Université de Rennes), at Master's
 level (M1). I mainly study *biomedical signal processing* such as EEG or ECG signals, but also anything that might be closely or remotely related to it, like *medical imaging* or *artificial intelligence* (machine learning, deep learning, etc.).
-------
+
 ## Currently
 I'm doing a research internship on *multimodal emotion recognition* (EEG, video, audio) at Nanjing Medical University, China. My work is focused on designing and evaluating deep learning architectures and especially developing new methods of modality fusion. The idea is to model pre-trained features (5 emotions in the dataset I used) in a graph, then apply *spectral graph theory* tools such as the *Laplacian* to smooth out its geometry, and, following a fusion, classify the different emotions. You can see more details about it on the [Research](/research/) page!
 
