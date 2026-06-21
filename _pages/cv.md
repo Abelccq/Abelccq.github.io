@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
+## À venir
+Cette page sera prochainement complétée.
 
